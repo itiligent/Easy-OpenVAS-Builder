@@ -83,3 +83,4 @@ To scan Windows hosts using SMB authentication:
 4. Add Windows hosts to a new scan target and assign the credentials object under _**Credentials for authenticated checks.**_  
 5. Create and run or schedule a scan task for the target(s).  
 
+Thanks to yu210148 and the other contributers to https://github.com/yu210148/gvm_install for inspiring this better version.
